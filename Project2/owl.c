@@ -1,12 +1,8 @@
 //
-// COMP9024 Assignment 2 - Ordered Word Ladder
-//
-// https://wiki.cse.unsw.edu.au/cs9024cgi/19T2/Assignment2
+//Ordered Word Ladder
 //
 // Authors:
-// Chongshi Wang (z5190861)
-//
-// Written: 03/08/2019
+// Chongshi Wang
 //
 
 #include "Graph.h"
