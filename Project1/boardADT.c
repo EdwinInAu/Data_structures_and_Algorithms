@@ -1,6 +1,4 @@
 //
-// COMP9024 Assignment 1
-//
 // Authors:
 // Chongshi Wang
 //
